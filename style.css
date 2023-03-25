@@ -1,0 +1,50 @@
+* {
+  background-color: #cdf0ea;
+}
+body {
+  margin: 0;
+}
+.links {
+  display: inline-block;
+  top: 50px;
+  left: 1050px;
+  position: absolute;
+}
+div a {
+  color: #a4a6ff;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+a:hover {
+  color: rgb(197, 27, 146);
+}
+.name {
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  color: #ff9494;
+  margin: 200px auto;
+  text-align: center;
+  height: 100px;
+}
+.para {
+  text-align: center;
+  margin-block-start: 0cm;
+  font-family: 'Tangerine';
+  color: rgb(118, 94, 252);
+  font-size: 25px;
+}
+
+.circle {
+  position: relative;
+  bottom: 40px;
+  margin-block-start: 0cm;
+  display: inline-block;
+  background-color: #ff9494;
+  height: 10px;
+  width: 10px;
+  border-radius: 50px;
+}
+.box {
+  height: 200px;
+  width: 200px;
+}
